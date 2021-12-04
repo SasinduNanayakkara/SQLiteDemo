@@ -2,6 +2,7 @@ package com.user.sqldemo;
 
 public class CustomerModel { //customer model
 
+
     private int id;
     private String name;
     private int age;
